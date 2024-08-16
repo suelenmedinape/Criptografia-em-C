@@ -30,7 +30,7 @@ Ao construir esses projetos, aprendi a aplicar conceitos de criptografia como ci
 
 
 ## 🛠 Habilidades
-C, Segurança da Informação
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), Segurança da Informação
 
 
 ## Olá, eu sou a Suelen! 👋
